@@ -51,7 +51,7 @@
     //---- wpWidge name is first variable and unique 
     var widget="topicly-widget";
     //------------------ html template here ----------------------------
-    var template = '<div class="containerTitle"><a href="http://www.washingtonpost.com/wp-apps/topicly">Topicly</a></div><div class="module module-standard photo headlineOnly topicly-widget"><div class="topicly-widget-content"></div><div class="containerTitle credit"><a href="http://www.washingtonpost.com/wp-apps/topicly">Sponsored by Land Rover</a></div></div>';
+    var template = '<div class="containerTitle"><a href="http://www.washingtonpost.com/wp-apps/topicly">Topicly</a></div><div class="module module-standard photo headlineOnly topicly-widget"><div class="topicly-widget-content"></div><div class="containerTitle credit"><a href="http://www.washingtonpost.com/wp-apps/topicly"></a></div></div>';
     //------------------ css here ----------------------------
     var css =   '.topicly-widget .topicly-topic{ background-repeat: no-repeat; background-position: center; background-size: cover; -webkit-box-shadow: inset 0px 0px 10px -3px black; -moz-box-shadow: inset 0px 0px 10px -3px black; box-shadow: inset 0px 0px 10px -3px black; height:100px; position:relative; }' +
                 '.topicly-widget a .topicly-text{ position: absolute;width: 100%;bottom: 0px;text-decoration: none;color:white;font:bold 24px helvetica;padding:10px;text-shadow:1px 1px 5px rgba(0, 0, 0, 0.7);}'+
